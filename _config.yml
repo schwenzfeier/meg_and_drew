@@ -32,7 +32,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: CloudCannon/vonge-jekyll-bookshop-template
 plugins:
   - jekyll-feed
 
