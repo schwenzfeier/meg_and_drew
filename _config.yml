@@ -1,6 +1,6 @@
 # Site settings
 port: 4001
-title:
+title: Meg + Drew are getting Married!
 email:
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/

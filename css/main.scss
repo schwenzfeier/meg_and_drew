@@ -42,3 +42,11 @@ $theme-dark: #222;
         "mixins",
         "base"
 ;
+
+.whitelink{
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.whitelink:hover{
+  color: rgba(255, 255, 255, 0.7);
+}
